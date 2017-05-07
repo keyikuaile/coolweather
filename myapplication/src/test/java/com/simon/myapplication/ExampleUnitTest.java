@@ -1,4 +1,4 @@
-package com.simon.coolweather;
+package com.simon.myapplication;
 
 import org.junit.Test;
 
